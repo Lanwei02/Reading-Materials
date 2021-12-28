@@ -14,5 +14,9 @@
 * [数据分析实践——如何搭建数据指标体系（抖音为例](https://blog.csdn.net/qq_34069667/article/details/107064289)
 * [如何看待Uber的动态定价？](https://www.zhihu.com/question/31610444)
 * [求解！数据分析中供需关系的问题](https://www.1point3acres.com/bbs/thread-787408-1-1.html)
-### 4. AB Test:
+#### 4. AB Test:
 * [面试必考AB testing3个常见问题总结 [干货总结]](https://www.1point3acres.com/bbs/thread-705564-1-1.html)
+#### 5. Math
+* [似然（likelihood）和概率（probability）的区别与联系](https://blog.csdn.net/songyu0120/article/details/85059149)
+* [如何理解似然函数?](https://www.zhihu.com/question/54082000)
+* [数学乐](https://www.shuxuele.com/)
