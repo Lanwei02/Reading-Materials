@@ -18,13 +18,5 @@
 * [面试必考AB testing3个常见问题总结 [干货总结]](https://www.1point3acres.com/bbs/thread-705564-1-1.html)
 #### 5. Math
 * [似然（likelihood）和概率（probability）的区别与联系](https://blog.csdn.net/songyu0120/article/details/85059149)
-  似然与概率的区别
-简单来讲，似然与概率分别是针对不同内容的估计和近似。概率(密度)表达给定θ \thetaθ下样本随机向量X = x \textbf{X} = {x}X=x的可能性，而似然表达了给定样本X = x \textbf{X} = {x}X=x下参数θ = θ 1 \theta=\theta_1θ=θ 
-1
-​
- (相对于另外的参数取值θ 2 \theta_2θ 
-2
-​
- )为真实值的可能性.
-原文链接：https://blog.csdn.net/songyu0120/article/details/85059149* [如何理解似然函数?](https://www.zhihu.com/question/54082000)
+* [如何理解似然函数?](https://www.zhihu.com/question/54082000)
 * [数学乐](https://www.shuxuele.com/)
