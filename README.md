@@ -20,3 +20,4 @@
 * [似然（likelihood）和概率（probability）的区别与联系](https://blog.csdn.net/songyu0120/article/details/85059149)
 * [如何理解似然函数?](https://www.zhihu.com/question/54082000)
 * [数学乐](https://www.shuxuele.com/)
+* [概率分布](https://www.wikiwand.com/zh-sg/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83)
