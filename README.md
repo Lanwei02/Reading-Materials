@@ -21,3 +21,6 @@
 * [如何理解似然函数?](https://www.zhihu.com/question/54082000)
 * [数学乐](https://www.shuxuele.com/)
 * [概率分布](https://www.wikiwand.com/zh-sg/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83)
+* [似然函数](https://www.wikiwand.com/zh-sg/%E4%BC%BC%E7%84%B6%E5%87%BD%E6%95%B0)
+* [最大似然估计](https://www.wikiwand.com/zh-sg/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1)
+* [概率密度函数](https://www.wikiwand.com/zh-sg/%E6%A6%82%E7%8E%87%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0)
