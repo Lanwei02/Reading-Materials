@@ -23,5 +23,6 @@
 * [概率分布](https://www.wikiwand.com/zh-sg/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83)
 * [似然函数](https://www.wikiwand.com/zh-sg/%E4%BC%BC%E7%84%B6%E5%87%BD%E6%95%B0)
 * [最大似然估计](https://www.wikiwand.com/zh-sg/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1)
+  概率密度函数最大化
 * [概率密度函数](https://www.wikiwand.com/zh-sg/%E6%A6%82%E7%8E%87%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0)
 * [最大似然估计和最小二乘估计的区别与联系](https://blog.csdn.net/xidianzhimeng/article/details/20847289)
