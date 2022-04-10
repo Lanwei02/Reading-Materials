@@ -26,3 +26,4 @@
   概率密度函数最大化
 * [概率密度函数](https://www.wikiwand.com/zh-sg/%E6%A6%82%E7%8E%87%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0)
 * [最大似然估计和最小二乘估计的区别与联系](https://blog.csdn.net/xidianzhimeng/article/details/20847289)
+* [最小二乘法与最大似然估计](https://zhuanlan.zhihu.com/p/55793850)这个例子更好
