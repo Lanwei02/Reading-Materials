@@ -7,6 +7,7 @@
   * Anomaly Detection using Gaussian Distribution(Assume that data are normally distributed).
 #### 2. Time Series Analysis:
 * [An Introduction to Stationary and Non-Stationary Processes](https://www.investopedia.com/articles/trading/07/stationary.asp)
+* [预测： 方法与实践](https://otexts.com/fppcn/)
 #### 3. Supply and Demand
 * [面试经验 关于measure需求和供给的metric的小结](https://www.1point3acres.com/bbs/thread-774814-1-1.html)
 * [The Effects of Uber’s Surge Pricing: A Case Study](https://drive.google.com/file/d/0B1s08BdVqCgrOHdwaGlEVVMwa1E/view?resourcekey=0-Gu-c0ZS8x8yxQNVYhLbnAg)
