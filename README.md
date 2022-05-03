@@ -47,3 +47,5 @@
 #### 8.Econometrics
 * [不懂就问：logistic regression的assumption](https://www.1point3acres.com/bbs/thread-851207-1-1.html)
 * [Assumptions of Logistic Regression, Clearly Explained](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290)
+#### 9.Model Deployment
+* [Serve your first model with Scikit-Learn + Flask + Docker](https://engineering.rappi.com/serve-your-first-model-with-scikit-learn-flask-docker-df95efbbd35e)
