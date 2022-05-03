@@ -49,3 +49,5 @@
 * [Assumptions of Logistic Regression, Clearly Explained](https://towardsdatascience.com/assumptions-of-logistic-regression-clearly-explained-44d85a22b290)
 #### 9.Model Deployment
 * [Serve your first model with Scikit-Learn + Flask + Docker](https://engineering.rappi.com/serve-your-first-model-with-scikit-learn-flask-docker-df95efbbd35e)
+* [10 Minutes to Building a Machine Learning Pipeline with Apache Airflow](https://towardsdatascience.com/10-minutes-to-building-a-machine-learning-pipeline-with-apache-airflow-53cd09268977)
+* [3 Ways to Deploy Machine Learning Models in Production](https://towardsdatascience.com/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e)
